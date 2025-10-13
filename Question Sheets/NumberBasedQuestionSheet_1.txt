@@ -1,0 +1,219 @@
+1. Basic Number Logic
+
+Check if a number is even or odd (Easy)
+
+Find the greatest of three numbers (Easy)
+
+Swap two numbers without using a third variable (Easy)
+
+Reverse a number (Easy)
+
+Count the digits in a number (Easy)
+
+Check if a number is a palindrome (Easy)
+
+Check if a number is prime (Medium)
+
+Find the factorial of a number (Easy)
+
+Sum of digits in a number (Easy)
+
+Check if a number is Armstrong (Medium)
+
+2. Special Numbers
+
+Check if a number is an Automorphic number (Medium)
+
+Check if a number is a Disarium number (Medium)
+
+Check if a number is a Neon number (Medium)
+
+Check if a number is a Spy number (Medium)
+
+Check if a number is a Magic number (Medium)
+
+Check if a number is a Harshad number (Easy)
+
+Check if a number is a Kaprekar number (Hard)
+
+Check if a number is a Strong number (Medium)
+
+Check if a number is a Happy number (Medium)
+
+Check if a number is a Pronic number (Easy)
+
+3. Number Series and Patterns
+
+Generate Fibonacci series (Easy)
+
+Generate Tribonacci series (Medium)
+
+Generate Lucas series (Medium)
+
+Print number pyramid (Easy)
+
+Print Pascal’s Triangle (Medium)
+
+Print Floyd’s Triangle (Easy)
+
+Generate arithmetic progression (Easy)
+
+Generate geometric progression (Medium)
+
+Print prime numbers in a range (Medium)
+
+Print all Armstrong numbers in a range (Medium)
+
+4. Conversions
+
+Binary to Decimal (Easy)
+
+Decimal to Binary (Easy)
+
+Decimal to Octal (Medium)
+
+Octal to Decimal (Medium)
+
+Hexadecimal to Decimal (Medium)
+
+Decimal to Hexadecimal (Medium)
+
+Binary to Octal (Medium)
+
+Octal to Binary (Medium)
+
+Convert Roman numeral to Integer (Hard)
+
+Convert Integer to Roman numeral (Hard)
+
+5. Number Analysis
+
+Find GCD of two numbers (Medium)
+
+Find LCM of two numbers (Medium)
+
+Count number of digits (Easy)
+
+Find sum of even digits in a number (Easy)
+
+Find sum of odd digits in a number (Easy)
+
+Check if all digits in a number are even (Easy)
+
+Check if all digits in a number are odd (Easy)
+
+Find average of digits (Easy)
+
+Find product of digits (Easy)
+
+Remove duplicate digits from number (Medium)
+
+6. Bitwise and Logical
+
+Check if the ith bit is set in a number (Medium)
+
+Count the number of set bits in a number (Medium)
+
+Check if a number is a power of 2 (Medium)
+
+Multiply two numbers without using * (Hard)
+
+Add two numbers without using + (Hard)
+
+Divide two numbers without using / (Hard)
+
+XOR two numbers (Medium)
+
+Find bitwise AND of a range (Hard)
+
+Find bitwise OR of a range (Hard)
+
+Flip all bits in a number (Medium)
+
+7. Advanced Number Tricks
+
+Find the nth digit in a number series (Medium)
+
+Print factors of a number (Easy)
+
+Count prime digits in a number (Medium)
+
+Check if number is divisible by sum of its digits (Medium)
+
+Count zeroes in a number (Easy)
+
+Count trailing zeroes in factorial of number (Hard)
+
+Check if a number can be expressed as sum of two squares (Hard)
+
+Check if number is palindrome in binary format (Medium)
+
+Find closest prime to a given number (Hard)
+
+Count total prime numbers less than n (Medium)
+
+8. Game & Puzzle Based
+
+Number guessing game (Easy)
+
+Lucky number (Medium)
+
+Josephus problem (Hard)
+
+Find missing number in array (Medium)
+
+Find duplicate number in array (Medium)
+
+Detect hidden number in string (Medium)
+
+Count hidden prime numbers in string (Hard)
+
+Replace digits with words (Medium)
+
+Convert numbers to words (Hard)
+
+Find the digit at a specific position of a repeating sequence (Hard)
+
+9. Arrays and Lists (Number-based)
+
+Find smallest and largest number in array (Easy)
+
+Sort array in ascending and descending order (Medium)
+
+Find second largest number (Medium)
+
+Check if array contains only even numbers (Easy)
+
+Rotate array by k steps (Medium)
+
+Check if array is palindrome (Medium)
+
+Find duplicate elements (Medium)
+
+Find frequency of each digit (Medium)
+
+Replace all odd numbers with 0 (Easy)
+
+Replace all even numbers with 1 (Easy)
+
+10. Miscellaneous Mathematical Logic
+
+Convert time in hours/minutes to total seconds (Easy)
+
+Check if sum of digits is a prime (Medium)
+
+Print all three-digit Armstrong numbers (Medium)
+
+Print Nth prime number (Hard)
+
+Reverse digits of a number without converting to string (Medium)
+
+Convert number to binary string without inbuilt method (Medium)
+
+Convert binary string to number (Medium)
+
+Print multiplication table for any number (Easy)
+
+Count number of digits in factorial (Hard)
+
+Check if a number is divisible by both 3 and 5 (Easy)
