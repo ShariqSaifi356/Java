@@ -1,0 +1,120 @@
+✅ Basic Character Handling
+
+Check if a character is uppercase.
+
+Check if a character is lowercase.
+
+Check if a character is a digit.
+
+Check if a character is a vowel or consonant.
+
+Convert a lowercase character to uppercase.
+
+Convert an uppercase character to lowercase.
+
+Print the ASCII value of a character.
+
+Print the character for a given ASCII value.
+
+Swap two characters without using a third variable.
+
+Check if a character is a special character.
+
+✅ Character Pattern Problems
+
+Print all characters from A to Z using a loop.
+
+Print all characters from a to z using a loop.
+
+Print all digits from 0 to 9 using a loop.
+
+Print all printable characters with ASCII codes (from 32 to 126).
+
+Print pattern: A
+AB
+ABC
+ABCD (Triangle pattern with chars)
+
+✅ Character Frequency & Analysis
+
+Count occurrences of a character in a string.
+
+Find the most repeated character in a string.
+
+Find the first non-repeating character in a string.
+
+Count the number of vowels and consonants in a string.
+
+Count the number of digits, letters, and special characters in a string.
+
+✅ Character Conversion
+
+Convert a character to integer (ASCII).
+
+Convert an integer (ASCII) to a character.
+
+Convert all characters in a string to uppercase.
+
+Convert all characters in a string to lowercase.
+
+Toggle the case of each character in a string.
+
+✅ Character Comparisons
+
+Compare two characters without using comparison operators.
+
+Check if two characters are same case (both uppercase or both lowercase).
+
+Check if a string is made up of only same characters.
+
+Check if all characters in a string are unique.
+
+Check if a string is a pangram (contains all letters A-Z).
+
+✅ Character & Palindrome Based
+
+Check if a character is a palindrome (single-char logic can be used in strings).
+
+Check if a string is a palindrome (using character comparison).
+
+Find the longest palindromic substring.
+
+Remove all duplicate characters from a string.
+
+Reverse a string using character array.
+
+✅ Advanced Character Manipulation
+
+Replace each character with its next character.
+
+Replace each vowel with the next vowel.
+
+Replace all characters with their ASCII code in a string.
+
+Encrypt a message by shifting characters by 3 (Caesar cipher).
+
+Decrypt a Caesar cipher encrypted message.
+
+✅ Character Sorting & Sets
+
+Sort characters of a string alphabetically.
+
+Remove all non-alphabetic characters from a string.
+
+Remove all non-alphanumeric characters.
+
+Count how many uppercase and lowercase characters are in a string.
+
+Print only duplicate characters in a string.
+
+✅ Mixed Problems with char[]
+
+Convert a string to a character array.
+
+Convert a character array to string.
+
+Replace characters at even index with uppercase.
+
+Replace characters at odd index with lowercase.
+
+Create a new string with only consonants from input.
