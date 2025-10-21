@@ -1,0 +1,205 @@
+🟢 Beginner Level (1–25)
+
+What is an array?
+
+How do you declare an array in your preferred programming language?
+
+How to initialize an array with values?
+
+Print all elements of an array.
+
+Find the maximum element in an array.
+
+Find the minimum element in an array.
+
+Calculate the sum of all elements in an array.
+
+Calculate the average of array elements.
+
+Count the number of even and odd elements.
+
+Reverse the array.
+
+Copy one array to another.
+
+Check if an element exists in the array.
+
+Find the index of a given element.
+
+Count the frequency of each element.
+
+Remove duplicate elements.
+
+Find the second largest element.
+
+Find the second smallest element.
+
+Check if the array is sorted.
+
+Left rotate the array by one position.
+
+Right rotate the array by one position.
+
+Insert an element at a given position.
+
+Delete an element from an array.
+
+Merge two sorted arrays.
+
+Count total number of negative elements.
+
+Move all zeros to the end.
+
+🟡 Intermediate Level (26–60)
+
+Sort the array using bubble sort.
+
+Sort the array using insertion sort.
+
+Sort the array using selection sort.
+
+Sort the array using quick sort.
+
+Sort the array using merge sort.
+
+Binary search in a sorted array.
+
+Find the missing number in a sequence.
+
+Find duplicate elements in the array.
+
+Find all pairs with a given sum.
+
+Find the common elements between two arrays.
+
+Find the intersection of two arrays.
+
+Find the union of two arrays.
+
+Rearrange array so that even index has even number.
+
+Find first repeating element.
+
+Find first non-repeating element.
+
+Segregate 0s and 1s.
+
+Segregate 0s, 1s and 2s (Dutch National Flag Problem).
+
+Replace every element with the greatest element on the right side.
+
+Check if array is palindrome.
+
+Find the leader elements (greater than all elements to the right).
+
+Maximum difference between two elements (larger element comes after smaller one).
+
+Max product of two integers in the array.
+
+Longest consecutive subsequence.
+
+Kadane’s Algorithm – Maximum Subarray Sum.
+
+Find equilibrium index.
+
+Rotate array by k elements.
+
+Count number of occurrences of a number.
+
+Find if array has a subset with sum K.
+
+Find majority element (appears > n/2 times).
+
+Find peak element.
+
+Check if array elements form an arithmetic progression.
+
+Find ceiling and floor of a number.
+
+Search in rotated sorted array.
+
+Find pivot index.
+
+Calculate prefix sum array.
+
+🔴 Advanced Level (61–100)
+
+Sliding window maximum.
+
+Subarray sum equals K.
+
+Minimum size subarray with sum ≥ target.
+
+Longest subarray with sum = 0.
+
+Longest subarray with equal number of 0s and 1s.
+
+Maximum product subarray.
+
+Count inversions in an array.
+
+Count the number of subarrays with a given XOR.
+
+Rearrange array in alternating positive & negative items.
+
+Find k-th smallest element in array.
+
+Trapping rain water problem.
+
+Largest rectangle in histogram.
+
+Count number of pairs with given XOR.
+
+Maximum sum increasing subsequence.
+
+Maximum circular subarray sum.
+
+Median of two sorted arrays.
+
+Find element that appears more than n/3 times.
+
+Count distinct elements in every window of size k.
+
+Find smallest missing positive number.
+
+Sort array by frequency.
+
+Find pairs whose absolute difference is k.
+
+Minimum number of platforms (train schedule problem).
+
+Maximum number of non-overlapping subarrays with sum = target.
+
+Product of array except self.
+
+Next greater element.
+
+Next smaller element.
+
+Count number of subarrays with sum divisible by K.
+
+Minimum swaps required to bring all elements ≤ k together.
+
+Count number of triangles that can be formed from array values.
+
+Longest mountain in array.
+
+Sort an array of 0s, 1s and 2s without sorting.
+
+Maximum sum of non-adjacent elements.
+
+Form largest number from array.
+
+Convert array into Zig-Zag fashion.
+
+Print array in spiral order (2D).
+
+Search an element in a 2D matrix.
+
+Rotate a 2D matrix by 90 degrees.
+
+Transpose a matrix.
+
+Set matrix zeroes (set row and column to 0 if one cell is 0).
+
+Find maximum sum rectangle in a 2D matrix.
