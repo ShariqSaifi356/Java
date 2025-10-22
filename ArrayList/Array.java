@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Array {
@@ -5,8 +6,13 @@ public class Array {
         // Scanner input = new Scanner(System.in);
         // declareArray(input);
         int[] arr = { 23, 12, 31, 21, 60 };
-        System.out.println(maxElement(arr));
-        System.out.println(inRangeMax(arr, 1, 3));
+
+        // System.out.println(maxElement(arr));
+        // System.out.println(inRangeMax(arr, 1, 3));
+        // reversingArrayUsing2Pointers(arr);
+        // System.out.println(Arrays.toString(arr));
+        int[] rev = emptyArray(arr);
+        System.out.println(Arrays.toString(rev));
     }
 
     static void declareArray(Scanner input) {
@@ -34,16 +40,16 @@ public class Array {
         return max;
     }
 
-    static int inRangeMax(int[] arr, int start, int end) { 
-        //The range is invalid — the starting index comes after the ending index.
+    static int inRangeMax(int[] arr, int start, int end) {
+        // The range is invalid — the starting index comes after the ending index.
         if (start > end) {
             return -1;
         }
-        //The array reference doesn’t point to any actual array in memory.
+        // The array reference doesn’t point to any actual array in memory.
         if (arr == null) {
             return -1;
         }
-        
+
         int maxValue = arr[start];
         for (int i = start; i <= end; i++) {
             if (arr[i] > maxValue) {
@@ -51,5 +57,27 @@ public class Array {
             }
         }
         return maxValue;
+    }
+
+    static void reversingArrayUsing2Pointers(int[] arr) {
+        int start = 0;
+        int end = arr.length - 1;
+
+        while (start < end) {
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+
+            start++;
+            end--;
+        }
+    }
+
+    static int[] emptyArray(int[] arr) {
+        int[] emptyArray = new int[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            emptyArray[i] = arr[arr.length - 1 - i];
+        }
+        return emptyArray;
     }
 }
