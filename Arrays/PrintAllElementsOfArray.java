@@ -72,6 +72,9 @@ public class PrintAllElementsOfArray {
     }
 
     static void reverseArray(int[] arr) {
+        if (arr == null || arr.length <= 1) {
+            return; // nothing to reverse
+        }
         int start = 0;
         int end = arr.length - 1;
         while (start < end) {
