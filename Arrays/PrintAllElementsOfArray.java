@@ -12,8 +12,9 @@ public class PrintAllElementsOfArray {
         // int[] result = countEvenOrOdd(arr);
         // System.out.println("Even Count: " + result[0] + ", Odd Count: " + result[1]);
         // swapArray(arr, 0, 2);
-        reverseArray(arr);
-        System.out.println(Arrays.toString(arr));
+        //reverseArray(arr);
+       // System.out.println(Arrays.toString(arr));
+       System.out.println(Arrays.toString(copyArrayToAnother(arr)));
     }
 
     static void printAllElementsOfArray(int[] arr) {
@@ -89,5 +90,13 @@ public class PrintAllElementsOfArray {
         int temp = arr[index1];
         arr[index1] = arr[index2];
         arr[index2] = temp;
+    }
+
+    static int[] copyArrayToAnother(int[] arr){
+        int[] copy = new int[arr.length];
+        for(int i=0;i<arr.length;i++){
+            copy[i] = arr[i];
+        }
+        return copy;
     }
 }
