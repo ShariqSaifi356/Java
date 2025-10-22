@@ -22,7 +22,7 @@ Reverse the array.
 
 Copy one array to another.
 
-Check if an element exists in the array.
+Check if an element exists in the array.// Linear Search
 
 Find the index of a given element.
 
