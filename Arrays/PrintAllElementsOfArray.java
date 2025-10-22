@@ -7,10 +7,13 @@ public class PrintAllElementsOfArray {
         // int[] result = returnArray(arr);
         // System.out.println(Arrays.toString(result));
         // System.out.println(maxElement(arr));
-        // System.out.println(minElement(arr)); 
+        // System.out.println(minElement(arr));
         // System.out.println(sumOfElements(arr));
-        int[] result = countEvenOrOdd(arr);
-        System.out.println("Even Count: " + result[0] + ", Odd Count: " + result[1]);
+        // int[] result = countEvenOrOdd(arr);
+        // System.out.println("Even Count: " + result[0] + ", Odd Count: " + result[1]);
+        // swapArray(arr, 0, 2);
+        reverseArray(arr);
+        System.out.println(Arrays.toString(arr));
     }
 
     static void printAllElementsOfArray(int[] arr) {
@@ -55,17 +58,33 @@ public class PrintAllElementsOfArray {
         return sum;
     }
 
-    static int[] countEvenOrOdd(int[] arr){
+    static int[] countEvenOrOdd(int[] arr) {
         int countEven = 0;
         int countOdd = 0;
-        for(int i=0;i<arr.length;i++){
-            if (arr[i] %2==0) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] % 2 == 0) {
                 countEven++;
-            }
-            else{
+            } else {
                 countOdd++;
             }
         }
-        return new int[]{countEven, countOdd};
+        return new int[] { countEven, countOdd };
+    }
+
+    static void reverseArray(int[] arr) {
+        int start = 0;
+        int end = arr.length - 1;
+        while (start < end) {
+            swapArray(arr, start, end);
+            start++;
+            end--;
+        }
+    }
+
+    static void swapArray(int[] arr, int index1, int index2) {
+
+        int temp = arr[index1];
+        arr[index1] = arr[index2];
+        arr[index2] = temp;
     }
 }
