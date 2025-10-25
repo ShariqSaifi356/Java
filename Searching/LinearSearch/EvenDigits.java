@@ -1,3 +1,4 @@
+package LinearSearch;
 public class EvenDigits {
     public static void main(String[] args) {
         // Given an array nums of integers, return how many of them contain an even

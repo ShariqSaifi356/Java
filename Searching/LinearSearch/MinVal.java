@@ -1,3 +1,4 @@
+package LinearSearch;
 public class MinVal {
     public static void main(String[] args) {
         int[] arr = {56,65,78,12,34,90};
