@@ -23,7 +23,7 @@ public class RemoveElement {
             afterDel[j++] = arr[i];
         }
 
-        System.err.println(Arrays.toString(afterDel));
+        System.out.println(Arrays.toString(afterDel));
 
     }
 }
