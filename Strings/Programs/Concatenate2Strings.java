@@ -5,6 +5,7 @@ public class Concatenate2Strings {
         // Concatenation using + operator
         // System.out.println(str1+str2);
         System.out.println(usingLoop(str1, str2));
+        System.out.println("*************");
     }
 
     public static String usingLoop(String str1, String str2){
