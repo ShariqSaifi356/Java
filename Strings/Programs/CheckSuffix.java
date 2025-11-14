@@ -8,7 +8,7 @@ public class CheckSuffix {
             return;
         }
 
-        int startIndex = str.length() - suffix.length(); // where the suffix should start
+        int startIndex = str.length() - suffix.length(); // where the suffix should start.
 
         for (int i = 0; i < suffix.length(); i++) {
             if (str.charAt(startIndex + i) != suffix.charAt(i)) {
