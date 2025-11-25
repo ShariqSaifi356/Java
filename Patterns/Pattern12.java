@@ -14,6 +14,16 @@ public class Pattern12 {
             System.out.println();
         }
 
-        
+        for (int row = 1; row <= num; row++) {
+
+            for (int space = num - row; space >= 1; space--) {
+                System.out.print(" ");
+            }
+
+            for (int col = 1; col <= row; col++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
     }
 }
